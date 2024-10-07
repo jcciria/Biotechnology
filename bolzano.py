@@ -1,3 +1,5 @@
+# Fichero de prueba, con funciones genéricas
+
 def bolzano (f, interval, epsilon, **paramF):
     a,b= [x for x in interval]
     print (a,b)
